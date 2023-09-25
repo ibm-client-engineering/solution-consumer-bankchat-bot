@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[359],{2407:s=>{s.exports=JSON.parse('{"label":"log","permalink":"/solution-consumer-bankchat-bot/blog/tags/log","allTagsPath":"/solution-consumer-bankchat-bot/blog/tags","count":1}')}}]);
